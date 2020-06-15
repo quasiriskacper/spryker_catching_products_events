@@ -2,7 +2,7 @@
     "name": "kacper/kacper-sender-plugin",
     "description": "Test package test",
     "keywords": ["template", "composer", "package"],
-    "license": "DBAD",
+    "license": "MIT",
     "authors": [
         {
             "name": "Kacper Dygas",
